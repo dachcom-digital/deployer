@@ -56,8 +56,8 @@ $autoload = [
 ];
 
 $includes = [
-    $deployFilePath . '/vendor/deployer/deployer',
-    __DIR__ . '/../../../deployer/deployer',
+    $deployFilePath . '/vendor/dachcom-digital/deployer',
+    __DIR__ . '/../../../dachcom-digital/deployer',
     __DIR__ . '/../'
 ];
 
